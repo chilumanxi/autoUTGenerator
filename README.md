@@ -1,0 +1,2 @@
+# autoUTGenerator
+根据输入的request自动化生成ut的idea插件
